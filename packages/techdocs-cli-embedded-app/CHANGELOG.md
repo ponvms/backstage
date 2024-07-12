@@ -1,5 +1,13 @@
 # techdocs-cli-embedded-app
 
+## 0.2.98-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs@1.10.7-next.3
+  - @backstage/cli@0.26.11-next.1
+
 ## 0.2.98-next.2
 
 ### Patch Changes

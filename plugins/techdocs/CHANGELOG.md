@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs
 
+## 1.10.7-next.3
+
+### Patch Changes
+
+- 8fc2622: Fixed an issue that was causing techdocs pages unnecessarily re-render on navigate.
+
 ## 1.10.7-next.2
 
 ### Patch Changes

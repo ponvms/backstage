@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 1.22.1-next.3
+
+### Patch Changes
+
+- 4d7e11f: enable resizing of the task log stream viewer
+- Updated dependencies
+  - @backstage/plugin-scaffolder-react@1.10.0-next.3
+
 ## 1.22.1-next.2
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # example-app-next
 
+## 0.0.13-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs@1.10.7-next.3
+  - @backstage/plugin-scaffolder@1.22.1-next.3
+  - @backstage/plugin-scaffolder-react@1.10.0-next.3
+  - @backstage/cli@0.26.11-next.1
+  - @backstage/plugin-kubernetes@0.11.12-next.3
+  - @backstage/plugin-kubernetes-cluster@0.0.13-next.3
+  - @backstage/plugin-notifications@0.2.3-next.3
+  - @backstage/plugin-techdocs-module-addons-contrib@1.1.12-next.1
+
 ## 0.0.13-next.2
 
 ### Patch Changes

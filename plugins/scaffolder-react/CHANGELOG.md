@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.10.0-next.3
+
+### Patch Changes
+
+- 4d7e11f: disables rendering of output box if no output is returned
+
 ## 1.10.0-next.2
 
 ### Patch Changes
